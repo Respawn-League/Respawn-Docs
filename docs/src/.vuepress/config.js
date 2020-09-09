@@ -4,12 +4,11 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Respawn Docs',
+  title: 'Respawn League Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
@@ -55,11 +54,13 @@ module.exports = {
         text: 'Guides',
         ariaLabel: 'Guides Menu',
         items: [
-          {
-            text: 'Beginners Guide', link: '/guides/beginners-guide/',
-            text: 'Mumble Servers', link: '/guides/mumble-servers/'
-          }
+          { text: 'Beginners Guide', link: '/guides/beginners-guide/' },
+          { text: 'Mumble Servers', link: '/guides/mumble-servers/' }
         ]
+      },
+      {
+        text: 'Website',
+        link: 'https://rsl.tf/',
       }
     ],
     sidebar: {
