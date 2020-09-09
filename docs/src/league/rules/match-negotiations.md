@@ -1,2 +1,2 @@
 # Match Negotiations / Match Ransoming
-All match negotiations need to be completed by the standards above. If teams are unable to decide by this time, you will be forced to play your game at the default time stated in the Season Structure Teams are expected to have at least 3 days of availability each week.
+All match negotiations need to be completed by the standards above. If teams are unable to decide by this time, you will be forced to play your game at the default time stated in the Season Structure. **Teams are expected to have at least 3 days of availability each week**.

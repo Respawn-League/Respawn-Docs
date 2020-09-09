@@ -1,2 +1,2 @@
 # Mediation Process
-Notify the staff team about any foreseeable issues. In situations where a scheduling issue cannot be resolved between team captains within the rules, a staff member will mediate the process. Teams who can meet the 3-day availability expectation will be given preference in these situations.
+Notify the staff team about any foreseeable issues. In situations where a scheduling issue cannot be resolved between team captains within the rules, a staff member will mediate the process. **Teams who can meet the 3-day availability expectation will be given preference in these situations**.

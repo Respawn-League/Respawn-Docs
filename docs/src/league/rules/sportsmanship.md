@@ -1,4 +1,4 @@
 # Sportsmanship
 All players are expected to act in a civilised manner to ensure a non-toxic environment and promote a fun experience. If players are seen to be unable to uphold a good etiquette during a match, those individuals will receive punishments. Furthermore, as per the request from any player or staff member, chat can be restricted entirely.
-There is a fine line between “friendly” banter and poor sportsmanship. The use of common sense is required. If you feel you have been wronged in any way, you can dispute it with evidence.
+**There is a fine line between “friendly” banter and poor sportsmanship**. The use of common sense is required. If you feel you have been wronged in any way, you can dispute it with evidence.
 If you are neglecting the objective and purposefully focusing on spawn-camping the opposing team, that can be considered poor sportsmanship.

@@ -1,4 +1,4 @@
-# Infraction rewrite
+# General Information
 
 The Respawn League enforces a set of Competitive and Community rulesets to uphold the standards and vision of our league. In the past, this has been done purely by referencing our rulesets and determining the punishment. This method of administering has been called into question in the past, so we feel implementing a public facing system that properly outlines what common misbehaviours and grievances can be punished, is essential.
 

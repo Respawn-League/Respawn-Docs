@@ -113,15 +113,17 @@ module.exports = {
           ]
         },
       ],
-      '/guides/': [
+      '/guides/mumble-servers/': [
         {
-          title: 'Guides',
+          title: 'Mumble Servers',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'requesting-a-mumble',
+            'basic-setup',
+            'channels-and-custom-groups',
           ]
-        }
+        },
       ],
     }
   },
