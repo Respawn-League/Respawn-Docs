@@ -1,0 +1,2 @@
+# Submitting Scores
+After a match is complete one of the team leaders (generally the winning team’s) must submit the scores on their match page. Please submit logs.tf links and any other needed details here as well. All final submissions must be in before 11:59PM AEST on Friday at the end of match week, with failure to do so resulting in a Technical Forfeit.

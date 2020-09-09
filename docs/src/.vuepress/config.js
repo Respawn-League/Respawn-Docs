@@ -8,14 +8,14 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: 'Documentation for Respawn League services.',
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ['meta', { name: 'theme-color', content: '#699ff5' }],
+    ['meta', { name: 'theme-color', content: '#db9648' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -30,15 +30,15 @@ module.exports = {
     editLinks: false,
     docsDir: '',
     editLinkText: '',
+    displayAllHeaders: true, // Default: false
     lastUpdated: true,
     nav: [
       {
         text: 'League',
         ariaLabel: 'League Menu',
         items: [
-          {
-            text: 'Competitive Ruleset', link: '/league/competitive-ruleset/'
-          }
+          { text: 'Competitive Ruleset', link: '/league/rules/' },
+          { text: 'Infractions', link: '/league/infractions/' }
         ]
       },
       {
@@ -64,6 +64,44 @@ module.exports = {
       }
     ],
     sidebar: {
+      '/league/rules/': [
+        {
+          title: 'Competitive Ruleset',
+          collapsable: false,
+          children: [
+            '',
+            'season-structure',
+            'out-of-region',
+            'match-structure',
+            'timezones',
+            'match-negotiations',
+            'mediation-process',
+            'team-responsibilities',
+            'gamemodes',
+            'class-restrictions',
+            'whitelist',
+            'server-config',
+            'pausing',
+            'pov-recording',
+            'map-selection',
+            'mercenaries',
+            'disputes',
+            'scoring',
+            'tiebreaker',
+            'submitting-scores',
+            'forfeits',
+            'exploits',
+            'cheating',
+            'captaincy',
+            'server-usage',
+            'sportsmanship',
+            'account-usage',
+            'demo-recording',
+            'associated-punishments',
+            'miscellaneous',
+          ]
+        },
+      ],
       '/guides/': [
         {
           title: 'Guides',

@@ -1,0 +1,5 @@
+# Mercenaries
+Mercenaries(Mercs) are considered players that are not on the active roster of a team at the time of the match being played. Eligible Mercenaries require a league account, and cannot have any active bans in the league. Mercenaries cannot be banned by Valve Anti-Cheat (VAC).
+A maximum of two Mercenaries are allowed per match, but you cannot use the same Mercenary in more than three official games.
+Communicate the wanted use of mercs to the other team’s captain. Mercs must be allowed by the enemy captain before they can be used in a game. Captains have the right to deny unreasonable mercs. Contact a staff member if you feel your mercs are being unreasonably denied and a staff member can step in to make a final decision.
+You are required to put a Steam profile link or league account name in the match comms for any allowed mercs.

@@ -1,0 +1,3 @@
+# Server Usage
+Abusive use of any server for official match use by any player on the server, with or without RCON access, will result in immediate disqualification for the entire team with the possibility of removal from the current season. We expect the RCON to be shared only between team captains. The misuse of RCON by a player who is not a team captain can be considered for punishment.
+See the Server Administration page for more information regarding Server Hosting / Booking.

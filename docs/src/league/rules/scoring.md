@@ -1,0 +1,2 @@
+# Scoring
+2 points are awarded to the winner of each map in a match, with 4 points being the maximum possible score for a game. In matches where a team forfeits the winning team will be awarded 4 points. Technical forfeits grant each team 2 points, and mutual forfeits will not reward either team.

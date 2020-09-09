@@ -1,0 +1,4 @@
+# Associated Punishments
+We will determine if punishments delivered by other leagues will be mirrored by us on a case-by-case basis. We will evaluate every ban given by other leagues to decide whether we will provide the same punishment or a modified punishment if we deliver any discipline.
+If you have been banned from another league and wish to participate in Respawn League, reach out to our staff team to have the penalty reviewed before participating in a team.
+If you are found to be found hiding or trying to involve a player that falls into this category on your roster, you will receive a captaincy ban along with your team’s immediate removal from the active season.
