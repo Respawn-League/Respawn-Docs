@@ -102,6 +102,17 @@ module.exports = {
           ]
         },
       ],
+      '/league/infractions/': [
+        {
+          title: 'Infractions',
+          collapsable: false,
+          children: [
+            '',
+            'infractions-and-offences',
+            'cheating-bans',
+          ]
+        },
+      ],
       '/guides/': [
         {
           title: 'Guides',
