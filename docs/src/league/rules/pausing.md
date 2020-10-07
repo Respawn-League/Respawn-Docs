@@ -6,4 +6,4 @@ How you use the pauses are up to you, but **cannot in any circumstances be used 
 
 If the other team permits it, a longer pause can be used. 
 
-Failure to unpause or go over the allowed time will result in penalties.
+Failure to unpause or go over the allowed time will result in penalties. League Administrators may pause the match at any point and for any duration, this will not count towards either team.

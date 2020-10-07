@@ -11,7 +11,7 @@
 
 ## Tiers 2 includes:
 - Any attempt to deceive or mislead administrators, players or captains
-- Interfering in the organisation of an official match; i.e.  asking to cast the match, to change the time or date of the official, or trying to stop a team from participating
+- Interfering in an official match; i.e. asking to cast the match (unapproved orgs only), trying to stop a team from participating or being in server spectator
 - Discussing active investigations you are involved with
 - Implying false affiliation with Respawn League administration
 - Forfeiting a match in the first week of the season

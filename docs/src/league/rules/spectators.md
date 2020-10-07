@@ -1,2 +1,2 @@
 # Spectators
-The staff team are the only people allowed to be present during an official match on spectator. When switching classes during the game do not switch to spectator.
+The staff team are the only people allowed to be present during an official match on spectator. When switching classes during the game do not switch to spectator, instead use the infinite class slot (scout) to swap classes. Any player found spectating an official match will be subject to Infractions.
