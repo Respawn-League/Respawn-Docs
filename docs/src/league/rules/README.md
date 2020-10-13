@@ -1,2 +1,2 @@
 # Disclaimer
-Respawn League staff reserve the right to make any and all decisions on behalf of the league. Decisions made by staff members are final, and we ask these decisions to be respected once made.
+Respawn League staff reserve the right to make any and all decisions on behalf of the league. Decisions made by staff members are final, and we ask these decisions to be respected once made. Ignorance of the rules is not an excuse.

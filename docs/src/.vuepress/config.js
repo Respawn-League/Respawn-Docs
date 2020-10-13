@@ -85,6 +85,7 @@ module.exports = {
             'pov-recording',
             'map-selection',
             'mercenaries',
+            'rosters-and-transfers',
             'disputes',
             'scoring',
             'tiebreaker',

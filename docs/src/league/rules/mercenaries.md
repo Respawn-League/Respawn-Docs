@@ -5,7 +5,7 @@ A maximum of **two Mercenaries are allowed per match**, but you cannot use the s
 
 Communicate the wanted use of mercs to the other team’s captain at least an **hour prior to the official match time** where possible. Mercs **MUST** be allowed by the enemy captain before they can be used in a game. Captains have the right to deny unreasonable mercs.
 
-Mercenaries can only be sourced from the same division or below, any mercenary found playing in a division below where they are currently or were recently playing will receive a penalty.
+Mercenaries can only be sourced from the same division or below (for example: Premier players cannot play in Main matches unless approved by an administrator first), any mercenary found playing in a division below where they are currently or were recently playing will receive a penalty, along with the captain who requested them. If both teams agree to a Premier mercenary they can seek administrator approval for allowing that mercenary to play, but we reserve the right to deny mercenaries who we believe may be unreasonable.
 
 Contact a staff member if you feel your mercs are being unreasonably denied and a staff member can step in to make a final decision.
 You are required to put a Steam profile link or league account name in the match communications for any allowed mercs.

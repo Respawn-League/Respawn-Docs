@@ -12,3 +12,6 @@ All Administrators are an extension of the league. They reserve the right to mak
 KritzKast & CappingTV are the only approved casting organisation. Other organisations need to seek approval from the staff team.
 
 Only Approved Casting Organisations can freely schedule and cast official matches. Any un-approved casting entity (even if allowed to schedule and cast a match) will have an administrator assigned to set up the event.
+
+### Player Aliases
+Any match coverage from an Approved Casting Organisation requires all players present to be using either their recognizable alias or the alias on their RSL account. Players found not using their correct alias will be subject to punishment after an initial warning.
