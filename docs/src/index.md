@@ -10,6 +10,6 @@ features:
 - title: Community
   details: Community Guidelines & Partner info
 - title: Guides
-  details: Sherpa guides - newbie guides & more
+  details: Sherpa guides - Newbie Guides & more
 footer: Copyright Respawn League
 ---

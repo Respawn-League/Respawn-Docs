@@ -82,7 +82,7 @@ module.exports = {
             'whitelist',
             'server-config',
             'pausing',
-            'pov-recording',
+            'pov-demo-recording',
             'map-selection',
             'mercenaries',
             'rosters-and-transfers',
@@ -97,7 +97,6 @@ module.exports = {
             'server-usage',
             'sportsmanship',
             'account-usage',
-            'demo-recording',
             'associated-punishments',
             'miscellaneous',
           ]
