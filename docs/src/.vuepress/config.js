@@ -15,6 +15,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
+  	['link', { rel: 'icon', href: '/public/logo.png' }],
     ['meta', { name: 'theme-color', content: '#db9648' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
