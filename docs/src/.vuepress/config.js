@@ -16,7 +16,7 @@ module.exports = {
    */
   head: [
   	['link', { rel: 'icon', href: '/public/logo.png' }],
-    ['meta', { name: 'theme-color', content: '#dc3048' }],
+    ['meta', { name: 'theme-color', content: '#0091ea' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -39,16 +39,16 @@ module.exports = {
         ariaLabel: 'League Menu',
         items: [
           { text: 'Competitive Ruleset', link: '/league/rules/' },
-          { text: 'Infractions', link: '/league/infractions/' }
+          { text: 'Infractions', link: '/league/infractions/' },
+          { text: 'Maps', link: '/league/maps/' }
         ]
       },
       {
         text: 'Community',
         ariaLabel: 'Community Menu',
         items: [
-          {
-            text: 'Guidelines', link: '/community/guidelines/'
-          }
+          { text: 'Guidelines', link: '/community/guidelines/' },
+          { text: 'Partners', link: '/community/partners/' }
         ]
       },
       {
@@ -57,7 +57,8 @@ module.exports = {
         items: [
           { text: 'Beginners Guide', link: '/guides/beginners-guide/' },
           { text: 'Patreon', link: '/guides/patreon/' },
-          { text: 'Mumble Servers', link: '/guides/mumble-servers/' }
+          { text: 'Mumble Servers', link: '/guides/mumble-servers/' },
+          { text: 'Server Guides', link: '/guides/server-guides/' }
         ]
       },
       {
@@ -82,7 +83,6 @@ module.exports = {
             'gamemodes',
             'class-restrictions',
             'whitelist',
-            'server-config',
             'pausing',
             'pov-demo-recording',
             'map-selection',
@@ -115,6 +115,17 @@ module.exports = {
           ]
         },
       ],
+      '/league/maps/': [
+        {
+          title: 'Infractions',
+          collapsable: false,
+          children: [
+            '',
+            'highlander',
+            '4v4',
+          ]
+        },
+      ],
       '/guides/mumble-servers/': [
         {
           title: 'Mumble Servers',
@@ -124,6 +135,17 @@ module.exports = {
             'requesting-a-mumble',
             'basic-setup',
             'channels-and-custom-groups',
+          ]
+        },
+      ],
+      '/guides/server-guides/': [
+        {
+          title: 'Server Guides',
+          collapsable: false,
+          children: [
+            '',
+            'configs',
+            'basic-server-setup',
           ]
         },
       ],

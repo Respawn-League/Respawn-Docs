@@ -8,7 +8,7 @@ All Match Scores must be submitted by:
 - **AU/NZ** - Friday, 11:59 PM GMT+10.
 - **ASIA** - Sunday, 11:59 PM GMT+8.
 
-## Playable Match Days:
+## Playable Match Days
 - **AU/NZ** - Monday, Tuesday, Wednesday, Thursday, and Friday
 - **ASIA** - Wednesday, Thursday, Friday, Saturday and Sunday.
 
