@@ -13,4 +13,4 @@ What do you want to use the server for?:
 ## Submitting
 We use our Discord's Ticket Tool Bot to take Mumble requests, Support Requests and more. Staff will respond as soon as possible, but the setup can be a day or more depending on our current workload.
 Don't have our Discord or don't want to join it?
-[Respawn League Discord](http://discord.rsl.tf/)
+[Respawn League Discord](https://discord.rsl.tf/)

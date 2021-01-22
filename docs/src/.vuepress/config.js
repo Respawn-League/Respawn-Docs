@@ -16,7 +16,7 @@ module.exports = {
    */
   head: [
   	['link', { rel: 'icon', href: '/public/logo.png' }],
-    ['meta', { name: 'theme-color', content: '#db9648' }],
+    ['meta', { name: 'theme-color', content: '#dc3048' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
@@ -56,6 +56,7 @@ module.exports = {
         ariaLabel: 'Guides Menu',
         items: [
           { text: 'Beginners Guide', link: '/guides/beginners-guide/' },
+          { text: 'Patreon', link: '/guides/patreon/' },
           { text: 'Mumble Servers', link: '/guides/mumble-servers/' }
         ]
       },

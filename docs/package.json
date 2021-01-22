@@ -1,6 +1,6 @@
 {
   "name": "Respawn-Docs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A documentation site for Respawn League services",
   "main": "index.js",
   "authors": {
