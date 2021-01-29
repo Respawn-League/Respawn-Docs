@@ -1,6 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
+  plugins: ['@vuepress/back-to-top'],
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -62,7 +63,7 @@ module.exports = {
         ]
       },
       {
-        text: 'Website',
+        text: 'League Website',
         link: 'https://rsl.tf/',
       }
     ],
@@ -144,6 +145,7 @@ module.exports = {
           collapsable: false,
           children: [
             '',
+            'using-bookable-server',
             'configs',
             'basic-server-setup',
           ]

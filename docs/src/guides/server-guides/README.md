@@ -1,5 +1,9 @@
 # Server Guide Hub
 
+## Bookable Servers
+For more information about using Bookable Servers, see our Using a Bookable Server page!
+
+## Self-Hosted Servers
 We have received a plethora of questions over the past few years regarding how to setup a game server, what the requirements are and if you can "self host" your own server. Below are some basic guidelines on server requirements when not using a bookable server from an existing bookable provider (Qixalite, serveme.tf, ozfortress, PURE League, etc.):
 
 - Servers should not be hosted on a residential connection, no matter how good. The issue isn't always the available bandwidth or network speed, but the fact that residential connections typically aren't protected from DOS attacks or other forms of malicious activity.

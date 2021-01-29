@@ -11,7 +11,7 @@ pl_vigil_rc7
 koth_product_rcx
 koth_ashville_rc2b
 koth_warmtic_b6
-cp_steel_pro_rc1
+cp_steel_f1
 ```
 ---
 
