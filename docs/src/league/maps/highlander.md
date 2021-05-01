@@ -3,15 +3,15 @@
 ## Current Season
 ### Season 8 AU/NZ / Season 7 ASIA
 ```
-pl_upward_pro_b3
+pl_upward_pro_b2b
 pl_prowater_b12
 pl_swiftwater_final1
 pl_borneo
 pl_vigil_rc7
 koth_product_rcx
-koth_ashville_rc2b
-koth_warmtic_b6
-cp_steel_f1
+koth_ashville_rc2c
+koth_warmtic_f1
+cp_steel_f2
 ```
 ---
 
