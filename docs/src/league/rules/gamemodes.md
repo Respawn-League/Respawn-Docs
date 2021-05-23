@@ -1,6 +1,7 @@
 # Gamemodes
 These standards apply to any competitive format we run. Please refer to the rules listed on the Season / Tournament page for more up-to-date and accurate rules for each specific Season or Tournament.
 
+## Highlander
 ### CP - Control Point
 Examples: cp_gullywash and cp_vanguard.
 CP maps will be played in one 30 minute half where the team with the highest score at the end of 30 minutes, or the first team to 5, will win. If scores are tied at the end of the 30 minutes, a Golden Cap round must be played using the appropriate configuration file. The Golden Cap has no time limit, and first to 1 round wins. A Golden Cap must be played in a tie situation.

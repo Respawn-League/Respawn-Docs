@@ -1,3 +1,3 @@
 # Disputes
-If you have a dispute about a match, contact the staff team with as much information as possible **within 24 hours of the game finishing**.
-Gather evidence such as STV demos or screenshots and submit it to the staff team. It will be reviewed, and a response will be given **within 72 hours as to proceeding steps/requirements**.
+If you have a dispute about a match, contact the staff team with as much information as possible **as soon as possible after or during the match**.
+Gather evidence such as STV demos or screenshots and submit it to the staff team via our support bot Alfred. All you need to do is message the bot and it will send you a template to use. It will be reviewed, and a response will be given **within 48 hours as to proceeding steps/requirements**.

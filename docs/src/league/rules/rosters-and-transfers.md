@@ -8,3 +8,6 @@ The Active Roster contains each and every player you count as a core or subsitut
 
 ## Transfers
 Player transfers are reviewed on a weekly basis, and you can expect those transfers to be processed typically within 24 hours of the last match of the week being played. 
+
+## Emergency Transfers
+Emergency Transfers are granted by the staff team for situations where teams have an unavoidable player loss on their roster. The amount of players granted and conditions are heavily case-by-case and up to the discretion of the staff team. The best way to request this process is via our support bot Alfred, as the entire staff team will immediately be able to see the request, but you can message your division or region administrator if need be.

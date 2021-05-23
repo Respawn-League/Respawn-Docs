@@ -1,2 +1,2 @@
 # Cheating
-Usage of external programs (third-party software), hooks or wrappers is strictly prohibited. Typically any software that alters the gameplay that gives the player an unfair advantage. This also encompasses unintended manipulation of game assets and exploiting map/engine glitches.
+Usage of external programs (third-party software), hooks or wrappers is strictly prohibited. Typically any software that alters the gameplay to give the player an unfair advantage. This also encompasses unintended manipulation of game assets and exploiting map/engine glitches, more info on which can be seen under Exploits.

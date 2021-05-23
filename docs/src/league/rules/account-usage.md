@@ -2,7 +2,7 @@
 
 ## Alternate Accounts
 Use of alternative accounts is prohibited.
-If you need to have your account switched, a review process will begin. You will need to contact the staff team to start this.
+If you need to have your account switched, a review process will begin. You will need to contact the staff team via our support bot Alfred to start this.
 If you are found using an alternate account to cheat anywhere or are using a separate league account with a different Steam account, you will immediately be removed from the league, with a repeat offence resulting in a permanent league ban.
 
 ## Sharing
