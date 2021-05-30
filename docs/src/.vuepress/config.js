@@ -49,6 +49,7 @@ module.exports = {
         ariaLabel: 'Community Menu',
         items: [
           { text: 'Guidelines', link: '/community/guidelines/' },
+          { text: 'Anti-Cheat & You', link: '/community/anticheatandyou/' },
           { text: 'Partners', link: '/community/partners/' }
         ]
       },
