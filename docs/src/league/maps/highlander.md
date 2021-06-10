@@ -4,7 +4,7 @@
 ### Season 9 AU/NZ / Season 8 ASIA
 ```
 pl_upward
-pl_badwater
+pl_badwater_pro_v12
 pl_swiftwater_final1
 pl_borneo
 pl_vigil_rc7
