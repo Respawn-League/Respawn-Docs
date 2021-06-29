@@ -55,7 +55,7 @@ The follow is a list of examples of banned exploits:
 - Rate hacking.
 - hud_reloadscheme stuttering.
 
-* = A cheating ban will be given for exploits marked with an asterisk.
+*Note: A cheating ban will be given for exploits marked with an asterisk.*
 
 The following is a list of examples of allowed mods:
 - Custom HUD / Viewmodels / Crosshairs / Hitsounds
@@ -64,7 +64,7 @@ The following is a list of examples of allowed mods:
 - No souls / Christmas lights.
 - Hiding viewmodels.
 
-If you are unsure about the legality of something, please contact an administrator BEFORE playing an official match otherwise penalties will incur.
+If you are unsure about the legality of something, please contact an administrator BEFORE using it in an official match otherwise penalties will incur.
 
 ## Ban Lengths
 Below is a predetermined list of ban lengths that players may receive if they receive the following bans:
