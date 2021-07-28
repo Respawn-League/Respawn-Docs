@@ -70,14 +70,14 @@ If you are unsure about the legality of something, please contact an administrat
 Below is a predetermined list of ban lengths that players may receive if they receive the following bans:
 
 ### Cheating:
-Match Fixing - 1 year
-Valve Anti-Cheat Ban - 2 years (unless proved to be non-TF2 related)
-Evidence from Anti-Cheat - 2 years
+- Match Fixing - 1 year
+- Valve Anti-Cheat Ban - 2 years (unless proved to be non-TF2 related)
+- Evidence from Anti-Cheat - 2 years
 
 ### Failure To Submit Demos:
-1st Offense - 3 match ban
-2nd Offense - removal from the season
-3rd Offense - removal from the league
+- 1st Offense - 3 match ban
+- 2nd Offense - removal from the season
+- 3rd Offense - removal from the league
 
 ## Anti-Cheat Reporting
 If you have someone you wish to report, please follow the following steps carefully:
