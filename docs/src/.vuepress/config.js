@@ -125,6 +125,7 @@ module.exports = {
             '',
             'highlander',
             '4v4',
+            'bball',
           ]
         },
       ],

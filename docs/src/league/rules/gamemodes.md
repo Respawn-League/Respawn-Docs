@@ -13,3 +13,19 @@ KOTH maps will be played in a minimum of two halves with no time limit. The firs
 ### STOPWATCH - Payload/Attack & Defend
 Examples: pl_upward and cp_steel.
 These maps will be played in 2 halves. One half for these maps is when both teams have had the chance to Attack and Defend. The first team to win 2 halves wins the game. There can be no ties on Payload & Attack/Defend maps.
+
+## BBall
+
+### Hoop Blocking
+Standing on your team’s hoop is not allowed. If you shoot while on the hoop your team will receive penalties.
+
+### Bodyblocking
+Any attempt to intentionally jump into players on the other team to block movement or projectiles will result in penalty.
+
+### Timelimit
+Each round should be played for ten (10) minutes, and the first to 10 points wins. Two round wins are needed to win the Best of Three. 
+
+### Fixtures
+Each weekly match features one (1) map and should be played to the format above.
+
+It is expected that any issues that arise during a match should be brought to a League Administrator.

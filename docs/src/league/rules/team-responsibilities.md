@@ -11,7 +11,8 @@ Within a match the following teams take on the following responsibilities:
 ### Home & Away
 - Negotiating and confirming the match date and time
 - Ensuring the server is properly configured (config is executed) prior to readying up
-- Posting all match details in the Match Comms page including scores, mercenaries, and logs
+- Posting all match details in the Match Comms page including scores, mercenaries, logs and links to STV demos
 - Notifying staff of disputes/rule-breaking
 - Maintaining a minimum of 7 players in the game server at all times
 - Reporting and confirming the score after the game has finished
+- Both teams must have the Picks & Bans process complete at minimum twenty-four (24) hours before the confirmed match date and time
