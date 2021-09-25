@@ -4,7 +4,7 @@
 ### Season 10 AU/NZ / Season 9 ASIA
 ```
 pl_upward_f1
-pl_cornwater_b5a
+pl_cornwater_b5b
 pl_swiftwater_final1
 pl_borneo_f1a
 pl_vigil_rc7
