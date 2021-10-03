@@ -23,9 +23,12 @@ Standing on your team’s hoop is not allowed. If you shoot while on the hoop yo
 Any attempt to intentionally jump into players on the other team to block movement or projectiles will result in penalty.
 
 ### Timelimit
-Each round should be played for ten (10) minutes, and the first to 10 points wins. Two round wins are needed to win the Best of Three. 
+Each round should be played for ten (10) minutes, and the first to 25 points wins. Two round wins are needed to win the Best of Three. 
 
 ### Fixtures
 Each weekly match features one (1) map and should be played to the format above.
 
 It is expected that any issues that arise during a match should be brought to a League Administrator.
+
+### Weapon Unlocks
+The only unlocks allowed for use in BBall are Gunboats. **Shotgun cannot be used**.
