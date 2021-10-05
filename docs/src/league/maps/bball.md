@@ -5,8 +5,8 @@
 ```
 ctf_ballin_skyfall
 ctf_bball_sweethills_v1
-ctf_bball_ozone
+ctf_bball_ozone_rc3
 ctf_bball_alpine_b4
-ctf_bball_wilson_rc1
+ctf_bball_wilson_rc2
 ```
 ---
