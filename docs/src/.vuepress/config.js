@@ -119,7 +119,7 @@ module.exports = {
       ],
       '/league/maps/': [
         {
-          title: 'Infractions',
+          title: 'Map History',
           collapsable: false,
           children: [
             '',
