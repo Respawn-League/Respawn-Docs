@@ -41,12 +41,12 @@ The following is a list of examples of allowed scripts:
 - No explosion/particle smoke script.
 - No dust from bullet holes script.
 
-If you are unsure on if a script is allowed/banned, please contact an administrator BEFORE playing in an official match otherwise penalties will incur.
+If you are unsure if a script is allowed/banned, please contact an administrator BEFORE playing in an official match otherwise penalties will incur.
 
 ### Exploits:
 Abusing unintended game mechanics in order to gain an unfair advantage is considered exploitation.
 
-The follow is a list of examples of banned exploits:
+The following is a list of examples of banned exploits:
 - Entering the default playermodel pose (also known as “civilian pose”).
 - Removing the Sniper scope UI.
 - Box shadows.
