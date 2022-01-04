@@ -51,10 +51,9 @@ The follow is a list of examples of banned exploits:
 - Removing the Sniper scope UI.
 - Box shadows.
 - Spy cloak / footsteps / Ubercharge sound scripts and hearing aids (this includes 3rd party software that allows you to boost specific game sounds) or editing your surface properties. *
-- Altering game files to make specific objects/textures transparent.
+- Altering game files to make specific objects/textures transparent, or to cause lighting abnormalities. *
 - Rate hacking.
 - hud_reloadscheme stuttering.
-- Altering game files to achieve texture removal or lighting abnormalities. *
 
 *Note: A cheating ban will be given for exploits marked with an asterisk.*
 
