@@ -90,3 +90,5 @@ If you have someone you wish to report, please follow the following steps carefu
 That is the process. You’re done at step 5. The Anti-Cheat team will take the reins from here and begin an investigation. After that, you are not to interact with the suspect, or discuss your submission outside of the ticket, with anyone or for any reason. Failure to do so will incur infraction penalties. You are not entitled to progress updates or information, and do not expect to be updated as such.
 
 [Report To Our Anti-Cheat Team via our Discord Bot Alfred](https://discord.rsl.tf/)
+
+<TOC />

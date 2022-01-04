@@ -14,9 +14,14 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.9.5",
     "@vuepress/plugin-back-to-top": "^1.8.0",
+    "@vuepress/plugin-nprogress": "^1.9.5",
+    "@vuepress/plugin-search": "^1.9.5",
     "vuepress": "^1.5.4",
+    "vuepress-plugin-authors": "^0.0.2",
     "vuepress-plugin-reading-time": "^0.1.1",
+    "vuepress-plugin-table-of-contents": "^1.1.7",
     "vuepress-theme-dark": "^0.1.0"
   },
   "dependencies": {
