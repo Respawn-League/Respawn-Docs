@@ -54,6 +54,7 @@ The follow is a list of examples of banned exploits:
 - Altering game files to make specific objects/textures transparent.
 - Rate hacking.
 - hud_reloadscheme stuttering.
+- Altering game files to achieve texture removal or lighting abnormalities. *
 
 *Note: A cheating ban will be given for exploits marked with an asterisk.*
 
