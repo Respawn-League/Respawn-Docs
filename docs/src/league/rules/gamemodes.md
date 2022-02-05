@@ -8,11 +8,11 @@ CP maps will be played in one 30 minute half where the team with the highest sco
 
 ### KOTH - King of the Hill
 Examples: koth_ashville_rc1 and koth_product_rc9.
-KOTH maps will be played in a minimum of two halves with no time limit. The first team to win 3 rounds wins the match. There can be no ties on KOTH maps.
+In Regular Season, the first team to win 3 rounds (Best of 5) wins the map, but in Playoffs the first team to win 5 rounds (Best of 7) wins the map. There can be no ties on KOTH maps.
 
 ### STOPWATCH - Payload/Attack & Defend
 Examples: pl_upward and cp_steel.
-These maps will be played in 2 halves. One half for these maps is when both teams have had the chance to Attack and Defend. The first team to win 2 halves wins the game. There can be no ties on Payload & Attack/Defend maps.
+In Regular Season, each team will only attack and defend once, thus completing a half. The team who beats the defenders time will take the half. In Playoffs, Stopwatch is played in the "ABBA" format, meaning it is a Best of 3 halves scenario. The ABBA format is optional in Playoffs, and teams can agree to not play the format, in favour of the same one half format from the Regular Season. There can be no ties on Payload & Attack/Defend maps.
 
 ## BBall
 
