@@ -1,6 +1,21 @@
 # Highlander Map History
 
 ## Current Season
+### Season 11 AU/NZ / Season 10 ASIA
+```
+pl_upward_f5
+pl_swiftwater_final1
+pl_borneo_f1
+pl_vigil_rc9
+koth_product_final
+koth_ashville_rc2d
+koth_warmtic_f9
+koth_cascade
+cp_steel_f8
+```
+---
+
+## Past Seasons
 ### Season 10 AU/NZ / Season 9 ASIA
 ```
 pl_upward_f1
@@ -13,9 +28,7 @@ koth_ashville_rc2d
 koth_warmtic_f8
 cp_steel_f5a
 ```
----
 
-## Past Seasons
 ### Season 9 AU/NZ / Season 8 ASIA
 ```
 pl_upward
