@@ -7,12 +7,16 @@ Examples: cp_gullywash and cp_vanguard.
 CP maps will be played in one 30 minute half where the team with the highest score at the end of 30 minutes, or the first team to 5, will win. If scores are tied at the end of the 30 minutes, a Golden Cap round must be played using the appropriate configuration file. The Golden Cap has no time limit, and first to 1 round wins. A Golden Cap must be played in a tie situation.
 
 ### KOTH - King of the Hill
-Examples: koth_ashville_rc1 and koth_product_rc9.
-In Regular Season, the first team to win 3 rounds (Best of 5) wins the map, but in Playoffs the first team to win 5 rounds (Best of 7) wins the map. There can be no ties on KOTH maps.
+Examples: koth_ashville_rc2d and koth_product_rc9.
+In Regular Season, the first team to win 3 rounds (Best of 5) wins the map, but in Playoffs the first team to win 4 rounds (Best of 7) wins the map. Best of 7 KOTH is the default for Playoffs, however alike Stopwatch ABBA in Playoffs, it is optional. 
+
+There can be no ties on KOTH maps.
 
 ### STOPWATCH - Payload/Attack & Defend
 Examples: pl_upward and cp_steel.
-In Regular Season, each team will only attack and defend once, thus completing a half. The team who beats the defenders time will take the half. In Playoffs, Stopwatch is played in the "ABBA" format, meaning it is a Best of 3 halves scenario. The ABBA format is optional in Playoffs, and teams can agree to not play the format, in favour of the same one half format from the Regular Season. There can be no ties on Payload & Attack/Defend maps.
+In Regular Season, each team will only attack and defend once, thus completing a half. The team who beats the defenders time will take the half. In Playoffs, Stopwatch is played in the "ABBA" format, meaning it is a Best of 3 halves scenario. While the ABBA format is the default in Playoffs, it is optional and teams can agree to not play the format, in favour of the same one half format from the Regular Season. Teams are expected to confirm whether or not they are playing ABBA format in Match Communications.
+
+There can be no ties on Payload & Attack/Defend maps.
 
 ## BBall
 
